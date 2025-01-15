@@ -1,3 +1,30 @@
+# pomodoro-timer
+O objetivo do projeto é criar um Quiz App.
+
+Link para o [Projeto Quiz App](https://roadmap.sh/projects/quiz-app)
+
+## Requisitos
+ - Apresentar um botão "Iniciar" e detalhes sobre o quiz.
+ - Após iniciar, exibir a primeira pergunta de múltipla escolha em formato de "card", com as respostas como botões.
+ - Ao selecionar uma resposta, os botões devem indicar visualmente (vermelho/verde) se a escolha está correta ou incorreta, mostrando também a resposta certa.
+ - Incrementar a pontuação para cada resposta correta.
+ - Ao término do quiz, apresentar a pontuação final e um resumo dos resultados.
+ - Opcional: Implementar um temporizador de 1 minuto por pergunta; caso o usuário não responda nesse período, avançar para a próxima pergunta e decrementar a pontuação em 1 (Não implementado).
+
+## Ferramentas utilizadas no desenvolvimento
+
+- HTML
+- [Tailwind CSS](https://tailwindcss.com/): Framework
+- [Typescript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+    - Framework: [Nextjs](https://nextjs.org/)
+    - Servidor: [Descrito abaixo](#getting-started)
+- [VS Code Studio](https://code.visualstudio.com/)
+
+___
+
+## Next.js default README.md
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
