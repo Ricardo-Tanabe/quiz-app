@@ -1,4 +1,4 @@
-# pomodoro-timer
+# Quiz-App
 O objetivo do projeto é criar um Quiz App.
 
 Link para o [Projeto Quiz App](https://roadmap.sh/projects/quiz-app)
