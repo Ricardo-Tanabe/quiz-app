@@ -14,6 +14,24 @@
   }
 }
 
+@media (max-width: 499px) {
+  .small-screen-text {
+    display: none;
+  }
+  .small-screen-numbers {
+    display: inline;
+  }
+}
+
+@media (min-width: 500px) {
+  .small-screen-text {
+    display: inline;
+  }
+  .small-screen-numbers {
+    display: none;
+  }
+}
+
 body {
   color: var(--foreground);
   background: var(--background);
